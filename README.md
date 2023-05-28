@@ -47,4 +47,5 @@ Estrutura do Projeto
         App.js: Arquivo principal do aplicativo, contendo a configuração das rotas e a estrutura geral do aplicativo.
         index.js: Arquivo principal que renderiza o aplicativo no navegador.
     public/: Pasta contendo arquivos estáticos, como o arquivo HTML base.
+    firebase/: Pasta contendo os arquivos de configuração e inicialização do Firebase.
     package.json: Arquivo de manifesto do Node.js com as dependências e scripts do projeto.
